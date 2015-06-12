@@ -2,7 +2,7 @@
 
 Note : Most of the documentation taken from elasticsearch-analysis-turkishstemmer project. 
 
-[Click Here for Pure Python Port](http://https://github.com/otuncelli/turkish-stemmer-python)
+[Click Here for Python Port](https://github.com/otuncelli/turkish-stemmer-python)
 
 Stemmer algorithm for Turkish language.
 
